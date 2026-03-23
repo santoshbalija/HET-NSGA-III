@@ -1,4 +1,4 @@
-# HET-NSGA-III / MFE-NSGA-III
+# Draft version of HET-NSGA-III / MFE-NSGA-III
 
 Code for two companion papers on surrogate-assisted evolutionary multi- and many-objective optimization with heterogeneous evaluation times:
 
