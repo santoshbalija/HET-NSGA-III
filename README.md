@@ -216,6 +216,6 @@ If you use this code, please cite both papers:
 
 ## Contact
 
-Balija Santoshkumar — balijasa@msu.edu   
+Balija Santoshkumar — balijasa@msu.edu and santhoshkumar.balija@gmail.com  
 
 COIN Lab, Michigan State University — https://www.coin-lab.org/
