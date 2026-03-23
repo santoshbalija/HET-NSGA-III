@@ -2,7 +2,7 @@
 
 Code for two companion papers on surrogate-assisted evolutionary multi- and many-objective optimization with heterogeneous evaluation times:
 
-**1 (HET-NSGA-III):** Balija Santoshkumar and Kalyanmoy Deb, "Handling Objectives with Heterogeneous Evaluation Times in Surrogate-Assisted Evolutionary Multi-Objective Optimization," *IEEE Transactions on Evolutionary Computation*, 2025. [[Link](https://doi.org/10.1109/TEVC.2025.1)]
+**1 (HET-NSGA-III):** Balija Santoshkumar and Kalyanmoy Deb, "Handling Objectives with Heterogeneous Evaluation Times in Surrogate-Assisted Evolutionary Multi-Objective Optimization," *IEEE Transactions on Evolutionary Computation*, 2025. [[Link](https://doi.org/10.1109/TEVC.2025.3560922)]
 
 **2 (MFE-NSGA-III):** Balija Santoshkumar and Kalyanmoy Deb, "Handling of Objectives and Constraints with Heterogeneous Evaluation Times for Surrogate-Assisted Evolutionary Multi- and Many-Objective Optimization," *Swarm and Evolutionary Computation*, vol. 100, 2026. [[Link](https://doi.org/10.1016/j.swevo.2025.102260)]
 
@@ -188,15 +188,19 @@ The following problems from the papers are supported out of the box via pymoo an
 If you use this code, please cite both papers:
 
 ```bibtex
-@article{santoshkumar2025het,
-  title={Handling Objectives with Heterogeneous Evaluation Times in Surrogate-Assisted Evolutionary Multi-Objective Optimization},
+@article{santoshdebtevc2025,
   author={Santoshkumar, Balija and Deb, Kalyanmoy},
-  journal={IEEE Transactions on Evolutionary Computation},
+  journal={IEEE Transactions on Evolutionary Computation}, 
+  title={Handling Objectives With Heterogeneous Evaluation Times in Surrogate-Assisted Evolutionary Multi-Objective Optimization}, 
   year={2025},
-  doi={10.1109/TEVC.2025.1}
-}
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Optimization;Linear programming;Computational modeling;Measurement;Predictive models;Evolutionary computation;Probabilistic logic;Computational efficiency;Vectors;Uncertainty;Heterogeneous Evaluation Times;Heterogeneous Objectives;Non-uniform Latency;Surrogate-assisted Optimization;Multi-objective Optimization;Machine Learning;Reference Vector Guided Probabilistic Dominance},
+  doi={10.1109/TEVC.2025.3560922}}
 
-@article{santoshkumar2026mfe,
+
+@article{santoshdeb2026,
   title={Handling of Objectives and Constraints with Heterogeneous Evaluation Times for Surrogate-Assisted Evolutionary Multi- and Many-Objective Optimization},
   author={Santoshkumar, Balija and Deb, Kalyanmoy},
   journal={Swarm and Evolutionary Computation},
