@@ -134,7 +134,7 @@ python evaluator_data_args.py \
 | `--surr_gen` | Surrogate generations `t_S` per iteration | 30 |
 | `--sigma_factor` | Surrogate uncertainty exponent `η` in Eq. (2) | 20 |
 | `--cons_sigma_level` | Constraint boundary threshold `e` in Step 1 (must be negative) | -0.5 |
-| `--seed` | Random seed | 1 |
+| `--seed` | Random seed | varies |
 
 Results are saved to `Data/two_obj_two_const_cons_sigma/` as `.pkl` files per seed.
 
