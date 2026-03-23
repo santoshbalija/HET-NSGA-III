@@ -122,7 +122,7 @@ python evaluator_data_args.py \
 
 **Key arguments:**
 
-| Argument | Description | Paper default |
+| Argument | Description | default |
 |---|---|---|
 | `--algorithm` | `HE_Cons_f` (MFE-NSGA-III) or `base` (NSGA-III) or `batch` (SA-NSGA-III) | — |
 | `--problem` | Any pymoo problem, e.g. `MW3(n_var=10)`, `C2DTLZ2(n_var=12, n_obj=3)` | — |
