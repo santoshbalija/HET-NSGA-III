@@ -99,8 +99,8 @@ git clone https://github.com/santoshbalija/HET-NSGA-III.git
 If you want to create a new conda environment (recommended), use the following commands:
 
 ```bash
-conda create -n het-nsga3 python=3.11
-conda activate het-nsga3
+conda create -n hetemo python=3.11
+conda activate hetemo
 ```
 
 Then install the necessary libraries:
