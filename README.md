@@ -90,13 +90,25 @@ where `T` is elapsed time, `τ = N_DoE` is the initial DoE budget, and `T_max` i
 
 ## Installation
 
+Clone the repository:
+
 ```bash
 git clone https://github.com/santoshbalija/HET-NSGA-III.git
+```
+
+If you want to create a new conda environment (recommended), use the following commands:
+
+```bash
+conda create -n het-nsga3 python=3.10
+conda activate het-nsga3
+```
+
+Then install the necessary libraries:
+
+```bash
 cd HET-NSGA-III
 pip install -r requirements.txt
 ```
-
-Python 3.8+ required.
 
 ---
 
