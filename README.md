@@ -149,7 +149,7 @@ python evaluator_data_args_block.py \
     --n_obj 3 \
     --ET_f1 0.05 --ET_f2 0.95 \
     --ET_g1 0.95 --ET_g2 0.95 \
-    --block_obj_cons "[[1, 3]]" \
+    --block_obj_cons "[[1, 2, 3]]" \
     --termination 300 \
     --pop_size 50 \
     --seed 1
