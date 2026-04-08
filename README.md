@@ -184,7 +184,7 @@ All results in both papers use:
 
 ---
 IGD+ is computed on the feasible non-dominated front of the true population.
-Both the reference Pareto front and the approximation front are
+Both the reference Pareto front and the obtanied front are
 normalized using the same min/max bounds of the reference Pareto front before
 IGD+ computation.
 ## Test Problems
