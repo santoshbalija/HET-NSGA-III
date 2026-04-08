@@ -183,7 +183,8 @@ All results in both papers use:
 - Kriging with six model configurations (constant/linear/quadratic × ARD/no-ARD), best selected by 3-fold cross-validation MAE
 
 ---
-
+IGD+ is computed on the feasible non-dominated front of the 
+population, normalized to using the min/max of the true (referernce) Pareto front
 ## Test Problems
 
 The following problems from the papers are supported out of the box via pymoo and `AddProblems/`:
